@@ -96,3 +96,7 @@ MySQL Setup: Ensure the database/schema specified in DATABASE_URL exists.
 XCom: Data is passed between tasks using Airflow's XCom system.
 
 DAG Start Date: Modify start_date=datetime(2025, 1, 25) to a valid past date for immediate testing.
+![image](https://github.com/user-attachments/assets/88841d23-5589-4a97-aba0-7d2d50d63c66)
+![image](https://github.com/user-attachments/assets/ec9335fe-37d7-443b-943e-76231b6ec946)
+
+
